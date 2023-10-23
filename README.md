@@ -4,6 +4,11 @@
 
 ---
 
+<img width="1470" alt="image" src="https://github.com/nectorprog/teaberry/assets/109895680/55b6c6db-8e09-47b9-bf8c-ae0600a36718">
+Скриншот главной страницы
+
+---
+
 ### Структура проекта:
 
 - `css/` - стили для сайта.
